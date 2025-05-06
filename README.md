@@ -1,4 +1,7 @@
 # Multimodal Sentiment Analysis System
+to run project
+npm run dev
+
 
 A comprehensive system for analyzing sentiment in multimodal content, particularly videos, by combining visual, audio, and textual analysis.
 
